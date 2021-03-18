@@ -1,0 +1,29 @@
+=======================================================
+HIGHEST PERFORMING CLASS
+Class Name: ClassB
+Class Average: 80.2
+=======================================================
+
+Overall student average: 79.9
+
+----------------------------------------------------
+Class Name: ClassB
+Class Average: 80.2
+Total number of students: 10
+Number of students used to calculate average: 10
+Students discarded from consideration:
+
+----------------------------------------------------
+Class Name: ClassC
+Class Average: 80.1
+Total number of students: 10
+Number of students used to calculate average: 10
+Students discarded from consideration:
+
+----------------------------------------------------
+Class Name: ClassA
+Class Average: 79.4
+Total number of students: 10
+Number of students used to calculate average: 9
+Students discarded from consideration:
+Edith Adkins

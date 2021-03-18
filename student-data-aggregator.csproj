@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>student_data_aggregator</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="26.0.1" />
+    <PackageReference Include="System.CommandLine" Version="2.0.0-beta1.20574.7" />
+    <Content Include="Program.cs" />
+    <Content Include="Models\Classroom.cs" />
+    <Content Include="Models\Student.cs" />
+    <Content Include="Files\ClassA.csv" />
+    <Content Include="Files\ClassC.csv" />
+    <Content Include="Files\ClassB.csv" />
+    <Content Include="FileUtil.cs" />
+    <Content Include="Models\SchoolDistrict.cs" />
+    <Content Include="Util.cs" />
+  </ItemGroup>
+</Project>
